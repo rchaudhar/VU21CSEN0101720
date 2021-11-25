@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int a=1;
+    float b=99.5;
+    printf("\n a after increament is %d",++a");
+    printf("\n b after decreament is %f",--b");
+    return 0;
+}    
