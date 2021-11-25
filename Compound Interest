@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("enter the principal value: ");
+	scanf("%f",p);
+	printf("enter the intrest rate in decimals: ");
+	scanf("%f",r);
+	
+}
