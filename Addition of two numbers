@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+	int a,b,c;
+	printf(" number1=25: ");
+	printf(" number2=30: ");
+	c=a+b;
+	printf("the sum of those two numbers is: %d",c);
+	return 55;
+}
