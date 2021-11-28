@@ -8,5 +8,5 @@ int main()
 	m=h*60;
 	s=m*60;
 	printf("%.1f hours is %.1f minutes and %.1f seconds",h,m,s);
-	return 54;
+	return 0;
 }
